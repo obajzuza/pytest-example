@@ -5,6 +5,7 @@ There are two folders containing different types of tests - `ui_tests` and `api_
 Folder `ui_test` contains also model(s) for the tests, expecting new page models to inherit `BasePage`.
 
 ### ui-test gif
+![](test.gif)
 
 ### API test cases
 
